@@ -12,12 +12,13 @@
 
 ### MEMBER 1
 -  Area : Application layer and user interface
-- UDP telemetry agent, monitoring server, web dashboard
+- UDP telemetry agent, monitoring server, web dashboard, evaluation 
+
 
 ### MEMBER 2
-- Area : Network setup, integration and documentation
-- Mininet topology, base SDN controller, launcher, testing, documentation
+- Aera : SDN monitoring controller
+- Statistics collection, utilization, alerts, mitigation
 
 ### MEMBER 3
-- Aera : SDN monitoring controller
-- Statistics collection, utilization, alerts, mitigation, evaluation
+- Area : Network setup, integration and documentation
+- Mininet topology, base SDN controller, launcher, testing, documentation
